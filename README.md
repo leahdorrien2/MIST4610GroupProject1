@@ -9,6 +9,7 @@ Sp25_21479_Group2
 5. Dorrien, Leah @leahdorrien2
 # Scenario Description
 # Data Model Explanation
+# Data Dictionary
 # Queries
 
 
