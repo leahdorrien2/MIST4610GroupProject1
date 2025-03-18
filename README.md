@@ -7,8 +7,8 @@ Sp25_21479_Group2
 3. Nguyen, Hung @
 4. Spraker, Dabney @
 5. Dorrien, Leah @
-#Scenario Description
+**#Scenario Description**
 
-#Data Model Explanation
+**#Data Model Explanation**
 
-#Queries
+**#Queries**
