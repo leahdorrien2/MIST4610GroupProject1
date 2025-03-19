@@ -60,6 +60,46 @@ The Hospital Management system was made as a digital system to efficiently manag
 
 
 # Queries
+1. Query 1 lists the patient’s first name, last name, and their emergency contact’s name if their blood type is O negative. The results are also listed in descending order based on the patient’s last name.
+
+<img width="349" alt="image" src="https://github.com/user-attachments/assets/e765655d-ee3e-4088-bc75-6d1f1897b19e" />
+Query 1 allows the hospital management system to see which of their patients has an O negative blood type. O negative is considered the “universal donor” as any individual can receive this blood type. People with O negative blood are often sought out to see if they'd be willing to donate their blood, which could potentially save hundreds of others lives.
+
+
+2. Query 2 lists the patient's first and last time and their total outstanding billing amount for bills that are pending or overdue. The results are listed in descending order by the total outstanding billing amount.
+
+   <img width="491" alt="image" src="https://github.com/user-attachments/assets/18562218-1d99-43f9-9488-237ef0ebd1c7" />
+   
+Query 2 allows the staff in charge of billings to oversee how much money they are still waiting to receive from the patients in their care. Including both pending and overdue payments, the system can contact these individuals to check in on their payments and keep track of who they are owed money from.
+
+3. Query 3 lists out the pharmacy’s name and the number of patients at each pharmacy.
+
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/07a45dc2-c191-4ee3-9b4a-c2e283bdf3db" />
+
+Query 3 allows the billing staff to look over all of the different pharmacies that their patients are assigned to. Based on the pharmacy, they can make certain deals with the hospital if enough patients are assigned and receiving medication orders/refills. They can also maintain their business relationships with these suppliers, which will strengthen their business overal
+
+4. Query 4 lists out the patient’s first name, last name, ID, appointment reason, and bill for their appointment if it is greater than the average billing amount in the hospital.
+
+
+<img width="514" alt="image" src="https://github.com/user-attachments/assets/a19e8f30-add9-4aed-a95c-28bde17eb6ea" />
+
+Query 4 allows the hospital billing staff to see the patient’s name, their ID number, their appointment reason, and the bill for their appointment if it is greater than the average bill amount for the hospital. This gives a general idea for the staff to see which appointments cost more than the typical average of all appointments within the hospital. This also brings forth important information such as which patients are bringing more than the average revenue from appointments, future budgeting plans, and whether or not resources need to be allocated more.
+
+
+5. Query 5 lists the patients ID, first name, last name, and their phone number if they do not have any allergies, they are not a minor, and they are not taking any medications.
+
+<img width="757" alt="image" src="https://github.com/user-attachments/assets/6429d46d-0729-4fb4-8dc0-4e5531dfa1b1" />
+
+Query 5 allows the hospital staff who are in charge of keeping data and improving upon the hospital itself to possibly give patients surveys and record their experiences. In order to get the best results while taking the survey, the patient must not have any allergies, must be older than 18, and not currently taking medication. They then can have a list of patients to ask if they’d be willing to take the survey and use their data to better improve the hospital.
+
+6. Query 6 lists the doctors ID, first name, last name, and the amount of overtime hours they have worked. Overtime is considered to be above 40 hours within a working week and they will be paid time and a half.
+
+<img width="526" alt="image" src="https://github.com/user-attachments/assets/7d1e9a04-8c11-4831-ab25-2667a8e017ba" />
+
+Query 6 allows the hospital staff in charge of the doctor’s payroll to see who needs to be compensated properly for any time worked above the normal 40 hours a week. If a doctor has worked more than 40 hours, then they can be paid extra money for any additional hours worked. This makes it a lot easier to see who has worked overtime and who has not.
+
+
+
 # Database Information
 
 
