@@ -83,6 +83,10 @@ The Pharmacies entity stores pharmacy details. There is a one to many, non-ident
 
 
 # Queries
+
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/849aa4a9-184c-4385-baac-aa813dd44739" />
+
+
 1. Query 1 lists the patient’s first name, last name, and their emergency contact’s name if their blood type is O negative. The results are also listed in descending order based on the patient’s last name.
 
 <img width="349" alt="image" src="https://github.com/user-attachments/assets/e765655d-ee3e-4088-bc75-6d1f1897b19e" />
