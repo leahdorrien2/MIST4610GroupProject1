@@ -98,7 +98,32 @@ Query 5 allows the hospital staff who are in charge of keeping data and improvin
 
 Query 6 allows the hospital staff in charge of the doctor’s payroll to see who needs to be compensated properly for any time worked above the normal 40 hours a week. If a doctor has worked more than 40 hours, then they can be paid extra money for any additional hours worked. This makes it a lot easier to see who has worked overtime and who has not.
 
+7. Query 7 lists the names of all of the staff members such as their ID, first name, last name, job title, and department name (not including doctors) who work less than 2 night shifts.
 
+<img width="731" alt="image" src="https://github.com/user-attachments/assets/7a2582c0-f855-4b4f-9699-087d9048640a" />
+
+Query 7 allows any shift supervisors to see which staff members work less than 2 night shifts for a work week. Supervisors can use this to determine if there is anyone in the department that can possibly pick up more night shifts due to them working less than 2.
+
+8. Query 8 lists the patients’ first name, last name, and medication name for each medication of those who are taking more than 1 prescription. Order by the patient’s names.
+
+<img width="647" alt="image" src="https://github.com/user-attachments/assets/063e1aa4-ba39-421c-8a4c-b08297ba3a58" />
+
+Query 8 allows doctors to look through their patients and know which patients are taking more than one medication and the names of those medications. Taking multiple medications at the same time can increase the risk of dangerous side effects occurring, so it is very important for doctors to know what their patients are taking in order to keep their patient safe. It is also helpful in determining if the patient can take more medications based on what they are already taking.
+
+
+9. Query 9 determines the distribution of insurance companies among insured patients in the hospital
+
+<img width="761" alt="image" src="https://github.com/user-attachments/assets/e843edd0-5c20-4261-bf42-0f3e8178286c" />
+
+Query 9 allows the hospital to understand who their top insurance providers are (in terms of patients insured). With this information, the management staff can better optimize the billing system, know the prominent insurance company among patients, and streamline the insurance process by understanding how the prominent insurance companies work. If the providers are in equal proportion, the query also sorts providers alphabetically.
+
+
+10. Query 10 lists the patient’s first name, last name, age, and their diagnosis if they are born after 01/01/1997
+
+
+<img width="439" alt="image" src="https://github.com/user-attachments/assets/24a0dbf0-e385-4e85-99c0-22881b4df0b2" />
+
+Query 10 is useful for the hospital staff to relay important information to doctors on how to treat younger patients that are a part of Generation Z or Alpha. Knowing your patient’s age difference is key in helping understand them and what can be different in their treatment compared to individuals who are Millennials or Generation X. 
 
 # Database Information
 
