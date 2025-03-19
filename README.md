@@ -149,5 +149,8 @@ Query 9 allows the hospital to understand who their top insurance providers are 
 Query 10 is useful for the hospital staff to relay important information to doctors on how to treat younger patients that are a part of Generation Z or Alpha. Knowing your patient’s age difference is key in helping understand them and what can be different in their treatment compared to individuals who are Millennials or Generation X. 
 
 # Database Information
+Name of the database: ns_Sp25_21479_Group2
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
 
 
