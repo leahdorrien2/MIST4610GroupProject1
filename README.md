@@ -115,7 +115,9 @@ Query 4 allows the hospital billing staff to see the patient’s name, their ID 
 
 5. Query 5 lists the patients ID, first name, last name, and their phone number if they do not have any allergies, they are not a minor, and they are not taking any medications.
 
-<img width="757" alt="image" src="https://github.com/user-attachments/assets/6429d46d-0729-4fb4-8dc0-4e5531dfa1b1" />
+
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/0cb320a6-a2eb-4562-9b0d-d7f589d7f2c8" />
+
 
 Query 5 allows the hospital staff who are in charge of keeping data and improving upon the hospital itself to possibly give patients surveys and record their experiences. In order to get the best results while taking the survey, the patient must not have any allergies, must be older than 18, and not currently taking medication. They then can have a list of patients to ask if they’d be willing to take the survey and use their data to better improve the hospital.
 
