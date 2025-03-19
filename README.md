@@ -7,7 +7,7 @@ Sp25_21479_Group2
 2. Eloore, Neha [@neloore](https://github.com/neloore/MIST-4610-Group-Project)
 3. Nguyen, Hung @[triumviratesys](https://github.com/triumviratesys/MIST4610-GP1/blob/main/README.md)
 4. Spraker, Dabney @[dps24510](https://github.com/dps24510/Dabney-Spraker-Group-Project-1/blob/main/README.md)
-5. Dorrien, Leah [@leahdorrien2]
+5. Dorrien, Leah [@leahdorrien2](https://github.com/leahdorrien2/MIST4610GroupProject1/blob/main/README.md)
 # Scenario Description
 The Hospital Management system was made as a digital system to efficiently manage information regarding the employees working in the hospital and the patients entering and leaving. In a modern hospital setting, managing a large volume of patients, staff, billing, and medical processes requires an integrated system to meet medical regulations and optimize resources. Through this system the hospital is able to manage patient care, staff scheduling, medical records, prescriptions, and department operations within a hospital environment. This system serves as a central database for tracking appointments, patient history, prescriptions, staff shifts, and billing information, ensuring smooth operations and effective healthcare delivery.
 # Data Model Explanation
