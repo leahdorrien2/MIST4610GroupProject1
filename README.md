@@ -12,6 +12,8 @@ The Hospital Management system was made as a digital system to efficiently manag
 # Data Model Explanation
 
 # Data Dictionary
+<img width="431" alt="image" src="https://github.com/user-attachments/assets/c577dd8a-a663-45f8-aaf9-05ce2f25f982" />
+
 # Queries
 # Database Information
 
